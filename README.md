@@ -19,3 +19,5 @@ Check out my files and help improve my solutions, or borrow my code if it helps 
 Please note that I will eventually make certain solutions commercially available for sale. I will follow the MIT guidelines for citing contributions. Contributors will not be involved in any of my commercial ventures. The main purpose of this repo is to provide a place to dump code for project members. We welcome anonymous contribution from the community and hope that our contributions can help others in their own ventures.  
 
 Final builds by tricky-solutions will not be distributed through GIT. I can be contacted by email at rundmsteveo@gmail.com 
+
+*/
