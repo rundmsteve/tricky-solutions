@@ -1,21 +1,21 @@
 # tricky-solutions
-One man's trip into the world of Computer Science. This repo is for projects I build for fun and assigned apps.
+One man's trip into the world of self-hosting and home-labbing. This repo is for projects I build for fun.
 
 /*
 
 About Me:
 
-I'm a Canadian Computer Science Student and I made this repo to post solutions from my coursework and my hobbies.
+I'm a Canadian home-labber and I made this repo to post solutions from my hobbies.
 
-Interested in these types of solutions at the moment:
+Interested in these types of projects at the moment:
 
-  1) Visual C# Applications
+  1) Self-hosting services
   
-  2) Windows IoT Core Applications
+  2) Docker && Portainer
   
-  3) Python Apps for RPi3
+  3) Raspberry pi stuff
   
-  4) Automotive Monitor & Control Modules
+  4) Web Design
   
 Check out my files and help improve my solutions, or borrow my code if it helps you.
 
